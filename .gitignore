@@ -3,6 +3,9 @@ __pycache__/
 *.py[codz]
 *$py.class
 
+# Ignore ML model files
+*.pkl
+
 # C extensions
 *.so
 
